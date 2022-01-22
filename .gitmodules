@@ -1,6 +1,6 @@
-[submodule "ns-3/src/ndnSIM"]
-	path = ns-3/src/ndnSIM
-	url = https://github.com/nsol-nmsu/ndnSIM-QoS
 [submodule "test"]
 	path = test
+	url = https://github.com/ericbinnendyk/ndnSIM-QoS.git
+[submodule "ns-3/src/ndnSIM"]
+	path = ns-3/src/ndnSIM
 	url = https://github.com/ericbinnendyk/ndnSIM-QoS.git
